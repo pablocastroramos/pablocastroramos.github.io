@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my Website :)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+My name is Pablo Castro Ramos, I am a computational neuroscientist in training, and an aspiring AI researcher too. I am currently working on biologically plausible whole-brain simulations. To generate those, we root our simulations' models in bottom-up models, namely, mean fields obtained from accurate spiking networks. We use the Zerlaut-diVolo line of work (itself coming from the ElBoutani-Destexhe master equation formalism) to formalise and generate accurate AdEx-based second-order mean fields for various kinds of neuronal circuits. Then, using TheVirtualBrain to wire various mean-fields together in a plausible manner (namely respecting distances and conductance delays). Each mean-field has its own set of parameters, and TVB provides some more, related to global couplings or the forward models (how to convert the firing-rates to EEG/MEG/fMRI signals). Our end goal is then to learn, from such a high-dimensional and diverse hyperspace of parameter configurations, how to generate various kinds of brain signals, notably the ones empirically observed of course.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
