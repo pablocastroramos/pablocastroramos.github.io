@@ -12,7 +12,7 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "Pablo CASTRO RAMOS / Computational Neuroscience & AI PhD Student"
 title_separator          : "-"
 name                     : &name "Pablo Castro Ramos"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Pablo CASTRO's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://pablocastroramos.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -90,7 +90,7 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Posters'
-    title: 'Conference Presentations'
+    #title: 'Conference Presentations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
